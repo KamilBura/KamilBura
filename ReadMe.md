@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamil Bura</h1>
 <h3 align="center">A passionate home developer from Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamilbura" alt="kamilbura" /></a> </p>
-
-- 🔭 I’m currently working on [Shika's Heaven](https://github.com/KamilBura/shikas-heaven)
+- 🔭 I’m currently working on [Shika's Heaven](https://github.com/KamilBura/shikas-heaven) but also on [ShibaBot](https://github.com/KamilBura/shibabot-shibusiek)
 
 - 🌱 I’m currently learning **JavaScript and Nodejs**
 
