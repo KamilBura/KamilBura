@@ -16,29 +16,6 @@
 
   <hr>
 
-  <h3>🎵 ShibaBot</h3>
-  <p>
-    A multifunctional Discord bot featuring music, levels, buttons, RPG systems and more.<br>
-    Built with: <code>Node.js</code>, <code>discord.js</code>, <code>erela.js</code>, and <code>MongoDB</code>
-  </p>
-  <ul>
-    <li><a href="https://github.com/KamilBura/shibabot-shibusiek">Shibabot – Main Repo</a></li>
-    <li><a href="https://github.com/KamilBura/shibabot-shiba.ai">Shibabot + Character.ai</a></li>
-  </ul>
-
-  <hr>
-
-  <h3>🌐 Shika’s Heaven</h3>
-  <p>
-    A small website for updates and experiments.
-  </p>
-  <ul>
-    <li><a href="https://github.com/KamilBura/shikas-heaven">GitHub Repo</a></li>
-    <li><a href="https://kamilbura.github.io/shikas-heaven/">Live Version</a></li>
-  </ul>
-
-  <hr>
-
   <h3>🛠 Tech I enjoy</h3>
   <ul>
     <li>JavaScript & Node.js</li>
