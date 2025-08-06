@@ -1,15 +1,94 @@
-<h1 align="center">Hi 👋, I'm Kamil Bura</h1>
-<h3 align="center">A passionate home developer from Germany</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kamil Bura – GitHub Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    hr {
+      margin: 2rem 0;
+      border: none;
+      border-top: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
 
-- 🔭 I’m currently working on [Shika's Heaven](https://github.com/KamilBura/shikas-heaven) but also on [ShibaBot](https://github.com/KamilBura/shibabot-shibusiek)
+  <h1>👋 Hi, I'm Kamil – aka Shikaru</h1>
+  <p>
+    I'm a hobby developer who enjoys building Discord bots, websites, and small digital experiments.
+    Most of what I know comes from learning by doing – I just love to figure things out on my own.
+  </p>
+  <p>
+    In my free time, I enjoy coding, gaming, music, and hanging out with friends.
+  </p>
 
-- 🌱 I’m currently learning **JavaScript and Nodejs**
+  <hr />
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+  <h2>🎵 ShibaBot</h2>
+  <p>
+    A multifunctional Discord bot featuring music, levels, buttons, RPG systems and more.<br>
+    Built with: <code>Node.js</code>, <code>discord.js</code>, <code>erela.js</code>, and <code>MongoDB</code>
+  </p>
+  <ul>
+    <li><a href="https://github.com/KamilBura/shibabot-shibusiek" target="_blank">Shibabot – Main Repo</a></li>
+    <li><a href="https://github.com/KamilBura/shibabot-shiba.ai" target="_blank">Shibabot + Character.ai</a></li>
+  </ul>
 
-- 📫 How to reach me **kamil@maksymilian-bura.de**
+  <h2>🌐 Shika’s Heaven</h2>
+  <p>
+    A small website for updates and experiments.
+  </p>
+  <ul>
+    <li><a href="https://github.com/KamilBura/shikas-heaven" target="_blank">GitHub Repo</a></li>
+    <li><a href="https://kamilbura.github.io/shikas-heaven/" target="_blank">Live Version</a></li>
+  </ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  <hr />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamilbura&theme=dark" alt="kamilbura" /></p>
+  <h2>🛠 Tech I enjoy</h2>
+  <ul>
+    <li>JavaScript &amp; Node.js</li>
+    <li>HTML &amp; CSS</li>
+    <li>MongoDB</li>
+    <li>Playing with Discord bots</li>
+    <li>Learning Python (on the side)</li>
+  </ul>
+
+  <h2>🌱 Always learning...</h2>
+  <p>
+    Right now, I'm focused on getting better at JavaScript and backend logic.<br>
+    I like experimenting with new ideas and turning them into working (or half-working 😅) code.
+  </p>
+
+  <hr />
+
+  <h2>🤝 Let’s connect</h2>
+  <p>
+    Feel free to check out my work, give feedback, or just follow along.<br>
+    I appreciate curious people and cool ideas. Always down to learn more!
+  </p>
+
+</body>
+</html>
